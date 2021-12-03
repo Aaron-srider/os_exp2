@@ -1,0 +1,3 @@
+/home/wenchao/Projects/C++/os_exp2/cmake-build-debug-tsaserver/CMakeFiles/rebuild_cache.dir
+/home/wenchao/Projects/C++/os_exp2/cmake-build-debug-tsaserver/CMakeFiles/edit_cache.dir
+/home/wenchao/Projects/C++/os_exp2/cmake-build-debug-tsaserver/CMakeFiles/os_exp2.dir
